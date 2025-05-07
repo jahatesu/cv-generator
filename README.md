@@ -28,3 +28,23 @@ A simple web app to build and export CVs as PDF built with Flask and HTML/CSS. U
 | Deployment   | Render             |
 
 ---
+
+## 📆 Milestones
+
+### ✅ Week 1: Planning
+- [x] Define features & user flow
+- [x] Create wireframes and repo
+- [ ] Set up project structure with Flask
+
+### ⏳ Week 2: Form + Preview
+- [ ] Build input form
+- [ ] Store user data and show preview
+
+### ⏳ Week 3: PDF Export
+- [ ] Style preview template
+- [ ] Export resume as a PDF
+
+### ⏳ Week 4: Polish & Deploy
+- [ ] Add multiple templates (optional)
+- [ ] Deploy to Render
+- [ ] Finalize README and showcase
