@@ -48,3 +48,15 @@ A simple web app to build and export CVs as PDF built with Flask and HTML/CSS. U
 - [ ] Add multiple templates (optional)
 - [ ] Deploy to Render
 - [ ] Finalize README and showcase
+
+## 📁 Project Structure
+cv-generator/
+├── app/
+│   ├── templates/
+│   ├── static/
+│   └── __init__.py
+├── venv/
+├── run.py
+├── requirements.txt
+├── .gitignore
+└── README.md
