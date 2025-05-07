@@ -19,8 +19,7 @@
 
 ---
 ## 🖼️ Wireframe 
-![Form Wireframe](docs/wireframe-form.png)
-wireframe-template.png)
+![Form Wireframe](cv-generator\docs\wireframe-form.png)
 
 ## 🧠 Future Features
 - [ ] Multiple template choices
