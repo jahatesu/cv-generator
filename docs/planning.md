@@ -19,10 +19,8 @@
 
 ---
 ## 🖼️ Wireframe 
-
-![Homepage Wireframe](docs/wireframe-homepage.png)
 ![Form Wireframe](docs/wireframe-form.png)
-![Resume Template Layout](docs/wireframe-template.png)
+wireframe-template.png)
 
 ## 🧠 Future Features
 - [ ] Multiple template choices
